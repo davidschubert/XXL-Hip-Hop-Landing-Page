@@ -197,18 +197,19 @@ img {
   left: 0%;
   z-index: 2;
   background: #ec1417;
+  background: yellow;
 }
 
 .first {
-  top: 0;
+  left: 0;
 }
 
 .second {
-  top: 33.3%
+  left: 33.3%
 }
 
 .third {
-  top: 66.6%;
+  left: 66.6%;
 }
 
 @media(max-height: 720px) {
